@@ -1,0 +1,8 @@
+{
+  "culture": "zh-Hans",
+  "texts": {
+    "Permission:AuditLogging": "审计日志",
+    "Permission:AuditLogs": "查看审计日志",
+    "Permission:AuditLogs.EntityChanges": "查看实体变更"
+  }
+}

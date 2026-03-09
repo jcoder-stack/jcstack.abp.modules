@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="../../common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>JcStack.Abp.Message</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../JcStack.Abp.Message.Application/JcStack.Abp.Message.Application.csproj" />
+    <ProjectReference Include="../JcStack.Abp.Message.Emailing/JcStack.Abp.Message.Emailing.csproj" />
+    <ProjectReference Include="../JcStack.Abp.Message.EntityFrameworkCore/JcStack.Abp.Message.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="../JcStack.Abp.Message.HttpApi/JcStack.Abp.Message.HttpApi.csproj" />
+    <ProjectReference Include="../JcStack.Abp.Message.SignalR/JcStack.Abp.Message.SignalR.csproj" />
+  </ItemGroup>
+
+</Project>

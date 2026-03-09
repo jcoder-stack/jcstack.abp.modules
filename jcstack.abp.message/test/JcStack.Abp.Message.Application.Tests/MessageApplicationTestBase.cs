@@ -1,0 +1,11 @@
+using Volo.Abp.Modularity;
+
+namespace JcStack.Abp.Message;
+
+/// <summary>
+/// Application 层测试基类
+/// </summary>
+public abstract class MessageApplicationTestBase<TStartupModule> : MessageTestBase<TStartupModule>
+    where TStartupModule : IAbpModule
+{
+}

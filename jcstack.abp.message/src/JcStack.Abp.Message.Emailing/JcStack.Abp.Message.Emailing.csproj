@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="../../common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>JcStack.Abp.Message.Emailing</RootNamespace>
+    <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.MailKit" Version="$(AbpVersion)" />
+    <PackageReference Include="Volo.Abp.TextTemplating.Scriban" Version="$(AbpVersion)" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../JcStack.Abp.Message.Application/JcStack.Abp.Message.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Templates/Scriban/*.tpl" />
+    <Content Remove="Templates/Scriban/*.tpl" />
+  </ItemGroup>
+
+</Project>

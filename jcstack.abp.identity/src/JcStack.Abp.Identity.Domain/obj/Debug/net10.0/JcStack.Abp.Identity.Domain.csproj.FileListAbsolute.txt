@@ -1,0 +1,17 @@
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/bin/Debug/net10.0/JcStack.Abp.Identity.Domain.deps.json
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/bin/Debug/net10.0/JcStack.Abp.Identity.Domain.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/bin/Debug/net10.0/JcStack.Abp.Identity.Domain.pdb
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/bin/Debug/net10.0/JcStack.Abp.Identity.Domain.Shared.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/bin/Debug/net10.0/JcStack.Abp.Identity.Domain.Shared.pdb
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.csproj.AssemblyReference.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.AssemblyInfoInputs.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.AssemblyInfo.cs
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.csproj.CoreCompileInputs.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.sourcelink.json
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.csproj.Fody.CopyLocal.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack..FD38EB49.Up2Date
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/refint/JcStack.Abp.Identity.Domain.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/JcStack.Abp.Identity.Domain.pdb
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.identity/src/JcStack.Abp.Identity.Domain/obj/Debug/net10.0/ref/JcStack.Abp.Identity.Domain.dll

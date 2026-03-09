@@ -1,0 +1,23 @@
+<Solution>
+    <Configurations>
+        <Platform Name="Any CPU" />
+    </Configurations>
+
+    <Folder Name="/src/">
+        <Project Path="src/JcStack.Abp.AuditLogging.Domain.Shared/JcStack.Abp.AuditLogging.Domain.Shared.csproj" />
+        <Project Path="src/JcStack.Abp.AuditLogging.Domain/JcStack.Abp.AuditLogging.Domain.csproj" />
+        <Project Path="src/JcStack.Abp.AuditLogging.Application.Contracts/JcStack.Abp.AuditLogging.Application.Contracts.csproj" />
+        <Project Path="src/JcStack.Abp.AuditLogging.Application/JcStack.Abp.AuditLogging.Application.csproj" />
+        <Project Path="src/JcStack.Abp.AuditLogging.EntityFrameworkCore/JcStack.Abp.AuditLogging.EntityFrameworkCore.csproj" />
+        <Project Path="src/JcStack.Abp.AuditLogging.HttpApi/JcStack.Abp.AuditLogging.HttpApi.csproj" />
+        <Project Path="src/JcStack.Abp.AuditLogging.HttpApi.Client/JcStack.Abp.AuditLogging.HttpApi.Client.csproj" />
+        <Project Path="src/JcStack.Abp.AuditLogging.Installer/JcStack.Abp.AuditLogging.Installer.csproj" />
+    </Folder>
+    
+    <Folder Name="/test/">
+        <Project Path="test/JcStack.Abp.AuditLogging.TestBase/JcStack.Abp.AuditLogging.TestBase.csproj" />
+        <Project Path="test/JcStack.Abp.AuditLogging.EntityFrameworkCore.Tests/JcStack.Abp.AuditLogging.EntityFrameworkCore.Tests.csproj" />
+        <Project Path="test/JcStack.Abp.AuditLogging.Domain.Tests/JcStack.Abp.AuditLogging.Domain.Tests.csproj" />
+        <Project Path="test/JcStack.Abp.AuditLogging.Application.Tests/JcStack.Abp.AuditLogging.Application.Tests.csproj" />
+    </Folder>
+</Solution>

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props"/>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
+    <RootNamespace>JcStack.Abp.AuditLogging</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JcStack.Abp.AuditLogging.Application\JcStack.Abp.AuditLogging.Application.csproj" />
+    <ProjectReference Include="..\JcStack.Abp.AuditLogging.EntityFrameworkCore\JcStack.Abp.AuditLogging.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\JcStack.Abp.AuditLogging.HttpApi\JcStack.Abp.AuditLogging.HttpApi.csproj" />
+  </ItemGroup>
+
+</Project>

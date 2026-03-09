@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="../../common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>JcStack.Abp.Message</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../JcStack.Abp.Message.TestBase/JcStack.Abp.Message.TestBase.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+{
+  "culture": "en",
+  "texts": {
+    "Permission:OrganizationUnits": "Organization Unit Management",
+    "Permission:OrganizationUnits.Default": "View organization units",
+    "Permission:OrganizationUnits.Create": "Create organization units",
+    "Permission:OrganizationUnits.Update": "Edit organization units",
+    "Permission:OrganizationUnits.Delete": "Delete organization units",
+    "Permission:OrganizationUnits.Move": "Move organization units",
+    "Permission:OrganizationUnits.ManageMembers": "Manage organization unit members",
+    "Permission:OrganizationUnits.ManageRoles": "Manage organization unit roles",
+    "Permission:OrganizationUnits.Lookup": "Lookup organization units",
+    "OrganizationUnit:DisplayName": "Display Name",
+    "OrganizationUnit:Code": "Code",
+    "OrganizationUnit:ParentId": "Parent",
+    "OrganizationUnit:MemberCount": "Member Count",
+    "OrganizationUnit:RoleCount": "Role Count"
+  }
+}

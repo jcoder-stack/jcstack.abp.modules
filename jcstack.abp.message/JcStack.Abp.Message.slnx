@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JcStack.Abp.Message.Domain.Shared/JcStack.Abp.Message.Domain.Shared.csproj" />
+    <Project Path="src/JcStack.Abp.Message.Domain/JcStack.Abp.Message.Domain.csproj" />
+    <Project Path="src/JcStack.Abp.Message.Application.Contracts/JcStack.Abp.Message.Application.Contracts.csproj" />
+    <Project Path="src/JcStack.Abp.Message.Application/JcStack.Abp.Message.Application.csproj" />
+    <Project Path="src/JcStack.Abp.Message.EntityFrameworkCore/JcStack.Abp.Message.EntityFrameworkCore.csproj" />
+    <Project Path="src/JcStack.Abp.Message.HttpApi/JcStack.Abp.Message.HttpApi.csproj" />
+    <Project Path="src/JcStack.Abp.Message.HttpApi.Client/JcStack.Abp.Message.HttpApi.Client.csproj" />
+    <Project Path="src/JcStack.Abp.Message.SignalR/JcStack.Abp.Message.SignalR.csproj" />
+    <Project Path="src/JcStack.Abp.Message.Emailing/JcStack.Abp.Message.Emailing.csproj" />
+    <Project Path="src/JcStack.Abp.Message.Installer/JcStack.Abp.Message.Installer.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/JcStack.Abp.Message.TestBase/JcStack.Abp.Message.TestBase.csproj" />
+    <Project Path="test/JcStack.Abp.Message.Domain.Tests/JcStack.Abp.Message.Domain.Tests.csproj" />
+    <Project Path="test/JcStack.Abp.Message.Application.Tests/JcStack.Abp.Message.Application.Tests.csproj" />
+    <Project Path="test/JcStack.Abp.Message.EntityFrameworkCore.Tests/JcStack.Abp.Message.EntityFrameworkCore.Tests.csproj" />
+  </Folder>
+</Solution>

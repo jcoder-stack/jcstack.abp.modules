@@ -1,0 +1,14 @@
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.csproj.AssemblyReference.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.AssemblyInfoInputs.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.AssemblyInfo.cs
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.csproj.CoreCompileInputs.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.sourcelink.json
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/bin/Debug/net10.0/JcStack.Abp.Excel.deps.json
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/bin/Debug/net10.0/JcStack.Abp.Excel.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/bin/Debug/net10.0/JcStack.Abp.Excel.pdb
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.csproj.Fody.CopyLocal.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/refint/JcStack.Abp.Excel.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/JcStack.Abp.Excel.pdb
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.excel/src/JcStack.Abp.Excel/obj/Debug/net10.0/ref/JcStack.Abp.Excel.dll

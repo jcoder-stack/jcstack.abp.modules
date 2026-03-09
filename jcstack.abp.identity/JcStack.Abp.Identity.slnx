@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JcStack.Abp.Identity.Domain.Shared/JcStack.Abp.Identity.Domain.Shared.csproj" />
+    <Project Path="src/JcStack.Abp.Identity.Domain/JcStack.Abp.Identity.Domain.csproj" />
+    <Project Path="src/JcStack.Abp.Identity.Application.Contracts/JcStack.Abp.Identity.Application.Contracts.csproj" />
+    <Project Path="src/JcStack.Abp.Identity.Application/JcStack.Abp.Identity.Application.csproj" />
+    <Project Path="src/JcStack.Abp.Identity.EntityFrameworkCore/JcStack.Abp.Identity.EntityFrameworkCore.csproj" />
+    <Project Path="src/JcStack.Abp.Identity.HttpApi/JcStack.Abp.Identity.HttpApi.csproj" />
+    <Project Path="src/JcStack.Abp.Identity.HttpApi.Client/JcStack.Abp.Identity.HttpApi.Client.csproj" />
+    <Project Path="src/JcStack.Abp.Identity.Installer/JcStack.Abp.Identity.Installer.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/JcStack.Abp.Identity.TestBase/JcStack.Abp.Identity.TestBase.csproj" />
+    <Project Path="test/JcStack.Abp.Identity.Domain.Tests/JcStack.Abp.Identity.Domain.Tests.csproj" />
+    <Project Path="test/JcStack.Abp.Identity.Application.Tests/JcStack.Abp.Identity.Application.Tests.csproj" />
+  </Folder>
+</Solution>

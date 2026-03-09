@@ -1,0 +1,17 @@
+{
+  "culture": "en",
+  "texts": {
+    "FileStorage": "File Storage",
+    "FileStorage:FileNotFound": "File not found",
+    "FileStorage:FileSizeExceeded": "File size exceeds the maximum allowed size of {MaxSize}",
+    "FileStorage:FileTypeNotAllowed": "File type '{Extension}' is not allowed",
+    "FileStorage:FileUploadFailed": "Failed to upload file",
+    "FileStorage:InvalidFileName": "Invalid file name",
+    "Permission:FileStorage": "File Storage",
+    "Permission:Files": "File Management",
+    "Permission:Files.Upload": "Upload Files",
+    "Permission:Files.Download": "Download Files",
+    "Permission:Files.Delete": "Delete Files",
+    "Permission:Files.Lookup": "Lookup Files"
+  }
+}

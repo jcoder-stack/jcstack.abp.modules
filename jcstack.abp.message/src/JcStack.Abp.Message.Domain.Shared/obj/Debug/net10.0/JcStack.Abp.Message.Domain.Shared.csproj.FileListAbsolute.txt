@@ -1,0 +1,14 @@
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/bin/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.deps.json
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/bin/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/bin/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.pdb
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.csproj.AssemblyReference.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.EmbeddedFilesManifest.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.AssemblyInfoInputs.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.AssemblyInfo.cs
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.csproj.CoreCompileInputs.cache
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.sourcelink.json
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/refint/JcStack.Abp.Message.Domain.Shared.dll
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/JcStack.Abp.Message.Domain.Shared.pdb
+/Users/zhjie/repose/Github/jc-stack/Asms/modules/jcstack.abp.message/src/JcStack.Abp.Message.Domain.Shared/obj/Debug/net10.0/ref/JcStack.Abp.Message.Domain.Shared.dll

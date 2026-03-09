@@ -1,0 +1,17 @@
+{
+  "culture": "en",
+  "texts": {
+    "Permission:Message": "Message Module",
+    "Permission:Message.Notifications": "Notifications",
+    "Permission:Message.Notifications.Send": "Send Notifications",
+    "Permission:Message.Notifications.ManageAll": "Manage All Notifications",
+    "Permission:Message.Settings": "Notification Settings",
+    "Permission:Message.Settings.Manage": "Manage Settings",
+    "Notification:TitleRequired": "Notification title is required",
+    "Notification:BodyRequired": "Notification body is required",
+    "Notification:NotFound": "Notification not found",
+    "Email:FooterText": "All rights reserved.",
+    "Email:SourceModule": "Source",
+    "Email:NoRecipient": "No recipient email address provided"
+  }
+}

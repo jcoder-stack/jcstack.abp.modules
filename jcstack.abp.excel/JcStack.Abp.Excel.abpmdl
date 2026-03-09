@@ -1,0 +1,17 @@
+{
+  "folders": {
+    "items": {
+      "src": {}
+    }
+  },
+  "packages": {
+    "JcStack.Abp.Excel": {
+      "path": "src/JcStack.Abp.Excel/JcStack.Abp.Excel.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Excel.MiniExcel": {
+      "path": "src/JcStack.Abp.Excel.MiniExcel/JcStack.Abp.Excel.MiniExcel.abppkg",
+      "folder": "src"
+    }
+  }
+}

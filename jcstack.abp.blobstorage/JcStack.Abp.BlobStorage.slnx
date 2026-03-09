@@ -1,0 +1,23 @@
+<Solution>
+    <Configurations>
+        <Platform Name="Any CPU" />
+    </Configurations>
+
+    <Folder Name="/src/">
+        <Project Path="src/JcStack.Abp.BlobStorage.Domain.Shared/JcStack.Abp.BlobStorage.Domain.Shared.csproj" />
+        <Project Path="src/JcStack.Abp.BlobStorage.Domain/JcStack.Abp.BlobStorage.Domain.csproj" />
+        <Project Path="src/JcStack.Abp.BlobStorage.Application.Contracts/JcStack.Abp.BlobStorage.Application.Contracts.csproj" />
+        <Project Path="src/JcStack.Abp.BlobStorage.Application/JcStack.Abp.BlobStorage.Application.csproj" />
+        <Project Path="src/JcStack.Abp.BlobStorage.EntityFrameworkCore/JcStack.Abp.BlobStorage.EntityFrameworkCore.csproj" />
+        <Project Path="src/JcStack.Abp.BlobStorage.HttpApi/JcStack.Abp.BlobStorage.HttpApi.csproj" />
+        <Project Path="src/JcStack.Abp.BlobStorage.HttpApi.Client/JcStack.Abp.BlobStorage.HttpApi.Client.csproj" />
+        <Project Path="src/JcStack.Abp.BlobStorage.Installer/JcStack.Abp.BlobStorage.Installer.csproj" />
+    </Folder>
+    
+    <Folder Name="/test/">
+        <Project Path="test/JcStack.Abp.BlobStorage.TestBase/JcStack.Abp.BlobStorage.TestBase.csproj" />
+        <Project Path="test/JcStack.Abp.BlobStorage.EntityFrameworkCore.Tests/JcStack.Abp.BlobStorage.EntityFrameworkCore.Tests.csproj" />
+        <Project Path="test/JcStack.Abp.BlobStorage.Domain.Tests/JcStack.Abp.BlobStorage.Domain.Tests.csproj" />
+        <Project Path="test/JcStack.Abp.BlobStorage.Application.Tests/JcStack.Abp.BlobStorage.Application.Tests.csproj" />
+    </Folder>
+</Solution>

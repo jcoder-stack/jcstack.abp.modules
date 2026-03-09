@@ -1,0 +1,17 @@
+{
+  "culture": "zh-Hans",
+  "texts": {
+    "FileStorage": "文件存储",
+    "FileStorage:FileNotFound": "文件不存在",
+    "FileStorage:FileSizeExceeded": "文件大小超出最大限制 {MaxSize}",
+    "FileStorage:FileTypeNotAllowed": "不允许的文件类型 '{Extension}'",
+    "FileStorage:FileUploadFailed": "文件上传失败",
+    "FileStorage:InvalidFileName": "无效的文件名",
+    "Permission:FileStorage": "文件存储",
+    "Permission:Files": "文件管理",
+    "Permission:Files.Upload": "上传文件",
+    "Permission:Files.Download": "下载文件",
+    "Permission:Files.Delete": "删除文件",
+    "Permission:Files.Lookup": "查看文件信息"
+  }
+}

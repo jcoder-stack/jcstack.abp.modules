@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="../../common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>JcStack.Abp.Message</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore.Sqlite" Version="$(AbpVersion)" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageReference Include="xunit" Version="2.9.2" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.8.2" />
+    <PackageReference Include="Shouldly" Version="4.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../JcStack.Abp.Message.TestBase/JcStack.Abp.Message.TestBase.csproj" />
+    <ProjectReference Include="../JcStack.Abp.Message.Application.Tests/JcStack.Abp.Message.Application.Tests.csproj" />
+    <ProjectReference Include="../../src/JcStack.Abp.Message.EntityFrameworkCore/JcStack.Abp.Message.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>

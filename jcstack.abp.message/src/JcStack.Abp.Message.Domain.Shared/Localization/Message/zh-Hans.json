@@ -1,0 +1,17 @@
+{
+  "culture": "zh-Hans",
+  "texts": {
+    "Permission:Message": "消息模块",
+    "Permission:Message.Notifications": "通知管理",
+    "Permission:Message.Notifications.Send": "发送通知",
+    "Permission:Message.Notifications.ManageAll": "管理所有通知",
+    "Permission:Message.Settings": "通知设置",
+    "Permission:Message.Settings.Manage": "管理设置",
+    "Notification:TitleRequired": "通知标题不能为空",
+    "Notification:BodyRequired": "通知内容不能为空",
+    "Notification:NotFound": "通知不存在",
+    "Email:FooterText": "版权所有。",
+    "Email:SourceModule": "来源",
+    "Email:NoRecipient": "未提供收件人邮箱地址"
+  }
+}

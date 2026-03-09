@@ -1,0 +1,50 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "JcStack.Abp.Identity.Domain.Shared": {
+      "path": "src/JcStack.Abp.Identity.Domain.Shared/JcStack.Abp.Identity.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Identity.Domain": {
+      "path": "src/JcStack.Abp.Identity.Domain/JcStack.Abp.Identity.Domain.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Identity.Application.Contracts": {
+      "path": "src/JcStack.Abp.Identity.Application.Contracts/JcStack.Abp.Identity.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Identity.Application": {
+      "path": "src/JcStack.Abp.Identity.Application/JcStack.Abp.Identity.Application.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Identity.HttpApi": {
+      "path": "src/JcStack.Abp.Identity.HttpApi/JcStack.Abp.Identity.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Identity.HttpApi.Client": {
+      "path": "src/JcStack.Abp.Identity.HttpApi.Client/JcStack.Abp.Identity.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Identity.Installer": {
+      "path": "src/JcStack.Abp.Identity.Installer/JcStack.Abp.Identity.Installer.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Identity.TestBase": {
+      "path": "test/JcStack.Abp.Identity.TestBase/JcStack.Abp.Identity.TestBase.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Identity.Domain.Tests": {
+      "path": "test/JcStack.Abp.Identity.Domain.Tests/JcStack.Abp.Identity.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Identity.Application.Tests": {
+      "path": "test/JcStack.Abp.Identity.Application.Tests/JcStack.Abp.Identity.Application.Tests.abppkg",
+      "folder": "test"
+    }
+  }
+}

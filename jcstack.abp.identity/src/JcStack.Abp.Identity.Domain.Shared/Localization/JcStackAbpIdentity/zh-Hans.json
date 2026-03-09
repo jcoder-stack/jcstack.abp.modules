@@ -1,0 +1,19 @@
+{
+  "culture": "zh-Hans",
+  "texts": {
+    "Permission:OrganizationUnits": "组织单元管理",
+    "Permission:OrganizationUnits.Default": "查看组织单元",
+    "Permission:OrganizationUnits.Create": "创建组织单元",
+    "Permission:OrganizationUnits.Update": "编辑组织单元",
+    "Permission:OrganizationUnits.Delete": "删除组织单元",
+    "Permission:OrganizationUnits.Move": "移动组织单元",
+    "Permission:OrganizationUnits.ManageMembers": "管理组织单元成员",
+    "Permission:OrganizationUnits.ManageRoles": "管理组织单元角色",
+    "Permission:OrganizationUnits.Lookup": "选择组织单元",
+    "OrganizationUnit:DisplayName": "显示名称",
+    "OrganizationUnit:Code": "编码",
+    "OrganizationUnit:ParentId": "上级单元",
+    "OrganizationUnit:MemberCount": "成员数量",
+    "OrganizationUnit:RoleCount": "角色数量"
+  }
+}

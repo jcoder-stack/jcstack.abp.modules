@@ -1,0 +1,62 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "JcStack.Abp.Message.Domain.Shared": {
+      "path": "src/JcStack.Abp.Message.Domain.Shared/JcStack.Abp.Message.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.Domain": {
+      "path": "src/JcStack.Abp.Message.Domain/JcStack.Abp.Message.Domain.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.Application.Contracts": {
+      "path": "src/JcStack.Abp.Message.Application.Contracts/JcStack.Abp.Message.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.Application": {
+      "path": "src/JcStack.Abp.Message.Application/JcStack.Abp.Message.Application.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.EntityFrameworkCore": {
+      "path": "src/JcStack.Abp.Message.EntityFrameworkCore/JcStack.Abp.Message.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.HttpApi": {
+      "path": "src/JcStack.Abp.Message.HttpApi/JcStack.Abp.Message.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.HttpApi.Client": {
+      "path": "src/JcStack.Abp.Message.HttpApi.Client/JcStack.Abp.Message.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.SignalR": {
+      "path": "src/JcStack.Abp.Message.SignalR/JcStack.Abp.Message.SignalR.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.Installer": {
+      "path": "src/JcStack.Abp.Message.Installer/JcStack.Abp.Message.Installer.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Message.TestBase": {
+      "path": "test/JcStack.Abp.Message.TestBase/JcStack.Abp.Message.TestBase.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Message.Domain.Tests": {
+      "path": "test/JcStack.Abp.Message.Domain.Tests/JcStack.Abp.Message.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Message.Application.Tests": {
+      "path": "test/JcStack.Abp.Message.Application.Tests/JcStack.Abp.Message.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Message.EntityFrameworkCore.Tests": {
+      "path": "test/JcStack.Abp.Message.EntityFrameworkCore.Tests/JcStack.Abp.Message.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    }
+  }
+}

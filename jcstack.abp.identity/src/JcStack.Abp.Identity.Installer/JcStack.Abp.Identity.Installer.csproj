@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="$(MSBuildThisFileDirectory)../../common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>JcStack.Abp.Identity</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JcStack.Abp.Identity.Application\JcStack.Abp.Identity.Application.csproj" />
+    <ProjectReference Include="..\JcStack.Abp.Identity.EntityFrameworkCore\JcStack.Abp.Identity.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\JcStack.Abp.Identity.HttpApi\JcStack.Abp.Identity.HttpApi.csproj" />
+  </ItemGroup>
+
+</Project>

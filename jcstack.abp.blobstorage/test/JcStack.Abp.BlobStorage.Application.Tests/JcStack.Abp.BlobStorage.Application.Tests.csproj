@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>JcStack.Abp.BlobStorage</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\JcStack.Abp.BlobStorage.Application\JcStack.Abp.BlobStorage.Application.csproj" />
+    <ProjectReference Include="..\JcStack.Abp.BlobStorage.Domain.Tests\JcStack.Abp.BlobStorage.Domain.Tests.csproj" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageReference Include="Volo.Abp.BlobStoring.FileSystem" Version="10.0.2" />
+  </ItemGroup>
+
+</Project>
