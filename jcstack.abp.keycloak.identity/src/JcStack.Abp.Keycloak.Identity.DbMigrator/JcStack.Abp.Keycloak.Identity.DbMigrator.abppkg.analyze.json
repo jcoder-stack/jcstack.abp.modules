@@ -1,0 +1,27 @@
+{
+  "name": "JcStack.Abp.Keycloak.Identity.DbMigrator",
+  "hash": "",
+  "contents": [
+    {
+      "namespace": "JcStack.Abp.Keycloak.Identity",
+      "dependsOnModules": [
+        {
+          "declaringAssemblyName": "JcStack.Abp.Keycloak.Identity.Keycloak",
+          "namespace": "JcStack.Abp.Keycloak.Identity",
+          "name": "IdentityKeycloakModule"
+        }
+      ],
+      "implementingInterfaces": [
+        {
+          "name": "IAbpModule",
+          "namespace": "Volo.Abp.Modularity",
+          "declaringAssemblyName": "Volo.Abp.Core",
+          "fullName": "Volo.Abp.Modularity.IAbpModule"
+        }
+      ],
+      "contentType": "abpModule",
+      "name": "JcStackAbpKeycloakIdentityDbMigratorModule",
+      "summary": "Lightweight module for DbMigrator with Keycloak data seeding"
+    }
+  ]
+}

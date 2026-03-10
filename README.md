@@ -7,6 +7,7 @@ Shared reusable JcStack ABP modules extracted from `Asms`.
 - `jcstack.abp.identity` — extended ABP identity module
 - `jcstack.abp.excel` — Excel import/export abstractions and MiniExcel integration
 - `jcstack.abp.message` — messaging, emailing, and SignalR notifications module
+- `jcstack.abp.keycloak.identity` — Keycloak SSO integration module for ABP identity scenarios
 
 ## Layout
 Each module keeps its own ABP layered structure and may include `src/`, `test/`, `common.props`, and its own solution file.

@@ -1,0 +1,23 @@
+<Solution>
+    <Configurations>
+        <Platform Name="Any CPU" />
+    </Configurations>
+
+    <Folder Name="/src/">
+        <Project Path="src/JcStack.Abp.Keycloak.Identity.Domain.Shared/JcStack.Abp.Keycloak.Identity.Domain.Shared.csproj" />
+        <Project Path="src/JcStack.Abp.Keycloak.Identity.Domain/JcStack.Abp.Keycloak.Identity.Domain.csproj" />
+        <Project Path="src/JcStack.Abp.Keycloak.Identity.Application.Contracts/JcStack.Abp.Keycloak.Identity.Application.Contracts.csproj" />
+        <Project Path="src/JcStack.Abp.Keycloak.Identity.Application/JcStack.Abp.Keycloak.Identity.Application.csproj" />
+        <Project Path="src/JcStack.Abp.Keycloak.Identity.EntityFrameworkCore/JcStack.Abp.Keycloak.Identity.EntityFrameworkCore.csproj" />
+        <Project Path="src/JcStack.Abp.Keycloak.Identity.HttpApi/JcStack.Abp.Keycloak.Identity.HttpApi.csproj" />
+        <Project Path="src/JcStack.Abp.Keycloak.Identity.HttpApi.Client/JcStack.Abp.Keycloak.Identity.HttpApi.Client.csproj" />
+        <Project Path="src/JcStack.Abp.Keycloak.Identity.Installer/JcStack.Abp.Keycloak.Identity.Installer.csproj" />
+    </Folder>
+    
+    <Folder Name="/test/">
+        <Project Path="test/JcStack.Abp.Keycloak.Identity.TestBase/JcStack.Abp.Keycloak.Identity.TestBase.csproj" />
+        <Project Path="test/JcStack.Abp.Keycloak.Identity.EntityFrameworkCore.Tests/JcStack.Abp.Keycloak.Identity.EntityFrameworkCore.Tests.csproj" />
+        <Project Path="test/JcStack.Abp.Keycloak.Identity.Domain.Tests/JcStack.Abp.Keycloak.Identity.Domain.Tests.csproj" />
+        <Project Path="test/JcStack.Abp.Keycloak.Identity.Application.Tests/JcStack.Abp.Keycloak.Identity.Application.Tests.csproj" />
+    </Folder>
+</Solution>

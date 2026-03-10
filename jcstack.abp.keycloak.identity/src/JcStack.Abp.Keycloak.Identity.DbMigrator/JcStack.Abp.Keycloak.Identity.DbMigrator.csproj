@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>JcStack.Abp.Keycloak.Identity</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JcStack.Abp.Keycloak.Identity.Keycloak\JcStack.Abp.Keycloak.Identity.Keycloak.csproj" />
+  </ItemGroup>
+
+</Project>

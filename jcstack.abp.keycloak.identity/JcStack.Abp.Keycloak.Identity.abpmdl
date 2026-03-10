@@ -1,0 +1,62 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "JcStack.Abp.Keycloak.Identity.Domain": {
+      "path": "src/JcStack.Abp.Keycloak.Identity.Domain/JcStack.Abp.Keycloak.Identity.Domain.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Keycloak.Identity.Application.Contracts": {
+      "path": "src/JcStack.Abp.Keycloak.Identity.Application.Contracts/JcStack.Abp.Keycloak.Identity.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Keycloak.Identity.Application": {
+      "path": "src/JcStack.Abp.Keycloak.Identity.Application/JcStack.Abp.Keycloak.Identity.Application.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Keycloak.Identity.EntityFrameworkCore": {
+      "path": "src/JcStack.Abp.Keycloak.Identity.EntityFrameworkCore/JcStack.Abp.Keycloak.Identity.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Keycloak.Identity.HttpApi": {
+      "path": "src/JcStack.Abp.Keycloak.Identity.HttpApi/JcStack.Abp.Keycloak.Identity.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Keycloak.Identity.HttpApi.Client": {
+      "path": "src/JcStack.Abp.Keycloak.Identity.HttpApi.Client/JcStack.Abp.Keycloak.Identity.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Keycloak.Identity.TestBase": {
+      "path": "test/JcStack.Abp.Keycloak.Identity.TestBase/JcStack.Abp.Keycloak.Identity.TestBase.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Keycloak.Identity.EntityFrameworkCore.Tests": {
+      "path": "test/JcStack.Abp.Keycloak.Identity.EntityFrameworkCore.Tests/JcStack.Abp.Keycloak.Identity.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Keycloak.Identity.Domain.Tests": {
+      "path": "test/JcStack.Abp.Keycloak.Identity.Domain.Tests/JcStack.Abp.Keycloak.Identity.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Keycloak.Identity.Application.Tests": {
+      "path": "test/JcStack.Abp.Keycloak.Identity.Application.Tests/JcStack.Abp.Keycloak.Identity.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "JcStack.Abp.Keycloak.Identity.Domain.Shared": {
+      "path": "src/JcStack.Abp.Keycloak.Identity.Domain.Shared/JcStack.Abp.Keycloak.Identity.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "JcStack.Abp.Keycloak.Identity.Installer": {
+       "path": "src/JcStack.Abp.Keycloak.Identity.Installer/JcStack.Abp.Keycloak.Identity.Installer.abppkg",
+       "folder": "src"
+    },
+    "JcStack.Abp.Keycloak.Identity.Auth": {
+       "path": "src/JcStack.Abp.Keycloak.Identity.Auth/JcStack.Abp.Keycloak.Identity.Auth.abppkg",
+       "folder": "src"
+    }
+  }
+}

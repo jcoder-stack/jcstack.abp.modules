@@ -1,0 +1,94 @@
+{
+  "Keycloak": {
+    "ServerUrl": "http://localhost:8080",
+    "Realm": "your-realm",
+    "AdminClientId": "admin-cli",
+    "AdminClientSecret": "your-admin-client-secret",
+    "ClientId": "your-api-resource-client",
+    "SourceSystem": "YourSystemName",
+    
+    "Clients": {
+      "_comment": "客户端配置 - 以下是通用配置示例，在业务项目中配置",
+      
+      "WebApp": {
+        "ClientId": "your-web-app",
+        "Name": "Your Web Application",
+        "Description": "Frontend web application",
+        "RootUrl": "http://localhost:3000",
+        "PublicClient": true,
+        "StandardFlowEnabled": true,
+        "ImplicitFlowEnabled": false,
+        "DirectAccessGrantsEnabled": false,
+        "RedirectUris": [
+          "http://localhost:3000/*",
+          "http://localhost:3000/api/auth/callback/keycloak"
+        ],
+        "WebOrigins": [
+          "http://localhost:3000",
+          "+"
+        ],
+        "Attributes": {
+          "pkce.code.challenge.method": "S256",
+          "post.logout.redirect.uris": "http://localhost:3000/*"
+        },
+        "DefaultClientScopes": [
+          "profile",
+          "email",
+          "roles",
+          "web-origins"
+        ],
+        "OptionalClientScopes": [
+          "address",
+          "phone",
+          "offline_access",
+          "microprofile-jwt"
+        ],
+        "FullScopeAllowed": false
+      },
+      
+      "Swagger": {
+        "ClientId": "your-swagger",
+        "Name": "Swagger UI",
+        "Description": "API documentation and testing",
+        "RootUrl": "http://localhost:5000",
+        "PublicClient": true,
+        "StandardFlowEnabled": true,
+        "RedirectUris": [
+          "http://localhost:5000/swagger/oauth2-redirect.html"
+        ],
+        "WebOrigins": [
+          "http://localhost:5000"
+        ],
+        "DefaultClientScopes": [
+          "profile",
+          "email",
+          "roles",
+          "web-origins"
+        ],
+        "OptionalClientScopes": [
+          "address",
+          "phone",
+          "offline_access"
+        ],
+        "FullScopeAllowed": false
+      },
+      
+      "BackendService": {
+        "_comment": "后端服务客户端示例（带 client secret）",
+        "ClientId": "your-backend-service",
+        "Name": "Backend Service",
+        "Description": "Backend microservice",
+        "RootUrl": "http://localhost:5001",
+        "PublicClient": false,
+        "StandardFlowEnabled": false,
+        "ServiceAccountsEnabled": true,
+        "DefaultClientScopes": [
+          "profile",
+          "email",
+          "roles"
+        ],
+        "FullScopeAllowed": false
+      }
+    }
+  }
+}

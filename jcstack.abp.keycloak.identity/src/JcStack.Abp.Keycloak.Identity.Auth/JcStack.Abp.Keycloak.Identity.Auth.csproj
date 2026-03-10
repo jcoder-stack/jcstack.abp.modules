@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>JcStack.Abp.Keycloak.Identity.Auth</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AspNetCore.Authentication.JwtBearer" Version="10.0.2" />
+    <PackageReference Include="Volo.Abp.Identity.Domain" Version="10.0.2" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\JcStack.Abp.Keycloak.Identity.Domain\JcStack.Abp.Keycloak.Identity.Domain.csproj" />
+    <ProjectReference Include="..\JcStack.Abp.Keycloak.Identity.Installer\JcStack.Abp.Keycloak.Identity.Installer.csproj" />
+  </ItemGroup>
+
+</Project>

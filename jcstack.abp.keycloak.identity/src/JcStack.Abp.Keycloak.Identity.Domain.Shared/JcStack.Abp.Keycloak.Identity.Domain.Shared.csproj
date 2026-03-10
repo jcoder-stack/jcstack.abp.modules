@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>JcStack.Abp.Keycloak.Identity</RootNamespace>
+    <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Ddd.Domain.Shared" Version="10.0.2" />
+    <PackageReference Include="Volo.Abp.Validation" Version="10.0.2" />
+    <ProjectReference Include="..\..\..\jcstack.abp.identity\src\JcStack.Abp.Identity.Domain.Shared\JcStack.Abp.Identity.Domain.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Localization\Identity\*.json" />
+    <Content Remove="Localization\Identity\*.json" />
+  </ItemGroup>
+
+</Project>
